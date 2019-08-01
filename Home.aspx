@@ -31,7 +31,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>hello
+    <div>
     <header id="header"><!--header-->
 		<div class="header_top"><!--header_top-->
 			<div class="container">
@@ -39,8 +39,8 @@
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="Contact Us.aspx"><i class="fa fa-phone"></i> +91-7737407641</a></li>
-								<li><a href="Contact Us.aspx"><i class="fa fa-envelope"></i> arvind.rajputt@gmail.com</a></li>
+								<li><a href="Contact Us.aspx"><i class="fa fa-phone"></i> +91-777 8888 999</a></li>
+								<li><a href="Contact Us.aspx"><i class="fa fa-envelope"></i> kwloky1208@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
